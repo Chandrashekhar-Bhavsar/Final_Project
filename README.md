@@ -1,1 +1,1 @@
-# HealthCare Application
+# Heart Attck Prediction
